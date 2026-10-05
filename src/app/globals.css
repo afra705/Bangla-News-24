@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@plugin "daisyui";
+@import "@heroui/styles";  
+.red{
+    background-color: rgb(198, 8, 8);
+}
+.red1{
+   color: rgb(198, 8, 8);
+}
+.gray{
+    color: gray;
+}
